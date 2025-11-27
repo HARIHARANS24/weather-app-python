@@ -14,7 +14,7 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
    
 - 🔍 Search weather by **city name**
 - 🌍 Auto-detect user location (via IP)
-- 🖼 Tkinter GUI app
+- 🖼 Tkinter GUI app 
 - 🌐 Flask Web App
 - 🔧 Clean modular structure
 
