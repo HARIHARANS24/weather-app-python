@@ -2,7 +2,7 @@
 
 A versatile Python Weather App that works in multiple modes:
  
-- 🖥 Desktop GUI app built with **Tkinter**
+- 🖥 Desktop GUI app built with **Tkinter** 
 - 🌐 Web app using **Flask**
 - 📍 Auto-detects user location via IP address 
 
