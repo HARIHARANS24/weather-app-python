@@ -8,7 +8,7 @@ A versatile Python Weather App that works in multiple modes:
 
 It fetches live weather data from **OpenWeatherMap API** and displays it in a clean, user-friendly format. 
  
----    
+---     
   
 ## ⚡ Features    
     
