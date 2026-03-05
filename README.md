@@ -23,21 +23,24 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 ## 🗂 Project Structure
 
 ```
-📁 weather-app/
-├── 📄 main.py                 # CLI mode entry point
-├── 📄 gui_app.py             # Tkinter GUI application
-├── 📄 web_app.py             # Flask web application
-├── 📄 requirements.txt       # Project dependencies
-├── 📄 README.md             # Project documentation
-│
-├── 📁 weather/              # Weather-related modules
-│   ├── 📄 __init__.py
-│   ├── 📄 fetcher.py       # API request handling
-│   ├── 📄 config.py        # Configuration and API keys
-│   └── 📄 location.py      # IP-based location detection
-│
-└── 📁 utils/               # Utility modules
-    └── 📄 formatter.py     # Weather data formatting
+Directory structure:
+└── hariharans24-weather-app-python/
+    ├── README.md
+    ├── gitignore.txt
+    ├── gui_app.py
+    ├── LICENSE.txt
+    ├── main.py
+    ├── requirements.txt
+    ├── web_app.py
+    ├── utils/
+    │   ├── formatter.py
+    │   └── __pycache__/
+    └── weather/
+        ├── __init__.py
+        ├── config.py
+        ├── fetcher.py
+        ├── location.py
+        └── __pycache__/
 ```
 
 ---
